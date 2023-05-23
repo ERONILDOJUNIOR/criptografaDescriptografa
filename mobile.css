@@ -1,0 +1,53 @@
+@media screen and (max-width:850px){
+#input-texto{
+   width: 400px;
+   height: 330px;
+   font-size: 20px;
+}
+
+    
+#output{
+   width: 50%;
+   height: 75%;
+   margin-top: 9%;
+   margin-right: 3%;
+}
+
+.container-bnt button{
+   width: 150px;
+   height: 50px;
+   margin-left: 5%;
+   margin-top: 5%;
+}
+
+}
+
+@media screen and (max-width:500px){
+   #output{
+      width: 60%;
+      height: 75%;
+      margin-top: 15%;
+   }
+
+   #input-texto{
+      width: 200px;
+      height: 330px;
+      font-size: 20px;
+  }
+
+
+   .container-bnt{
+      width: 200px;
+      flex-wrap: wrap;
+   }
+
+   .container-bnt button{
+      width: 110px;
+      height: 50px;
+      margin-left: 30%;
+      margin-top: 5%;
+
+   }
+
+
+}
