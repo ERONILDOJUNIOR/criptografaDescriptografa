@@ -24,18 +24,18 @@ Caso ainda não tenha uma conta no Render, vá para [https://render.com](https:/
 ---------------------------------------
 
 -   Dê um nome ao seu projeto.
--   Escolha uma região, por exemplo, um dos estados dos Estados Unidos.
--   A branch padrão geralmente é "main".
+-   Escolha uma região, por exemplo, Estados Unidos.
+-   A branch padrão deste projeto é "main".
 -   O diretório pode ser definido como ".".
 
 5\. Configurar as Opções de Execução
 ------------------------------------
 
 -   Em "Runtime", escolha a opção "Node".
--   Em "Build Command", insira o comando para realizar o build do projeto, que geralmente é "npm install".
--   Em "Start Command", insira o comando para iniciar a aplicação, que geralmente é "npm start".
+-   Em "Build Command", insira o comando para realizar o build do projeto, que é "npm install".
+-   Em "Start Command", insira o comando para iniciar a aplicação, que é "npm start".
 
-6\. Criar o Serviço Web
+6\. Finalizar a criação do Serviço Web
 -----------------------
 
 -   Clique em "Create Web Service".
