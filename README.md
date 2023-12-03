@@ -18,7 +18,7 @@ Caso ainda não tenha uma conta no Render, vá para [https://render.com](https:/
 --------------------------------
 
 -   Escolha a opção "Build and deploy from a Git repository" e clique em "Next".
--   Conecte-se ao seu repositório Git escolhendo o projeto Node.js ou fornecendo o link de um projeto público no GitHub.
+-   Conecte-se ao seu repositório Git escolhendo este projeto Node.js ou fornecendo o link deste projeto público no GitHub.
 
 4\. Preencher as Informações do Projeto
 ---------------------------------------
