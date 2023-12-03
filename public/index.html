@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>CODEC</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="mobile.css">
+</head>
+<body >
+    <main>
+        <header class="container">
+            <h1>CODE and DECODE</h1>
+        </header>
+
+        <div class="container">
+
+            <div class="input" >
+                <textarea  id="input-texto" placeholder="Digite seu texto aqui..."></textarea>
+                <p>OBS: Apenas letras minúsculas e sem acento!</p>
+            </div>            
+
+
+            <div class="output" id="output">
+                <h2>Sua mensagem aparecerá aqui!</h2>
+                <span>Digite um texto que deseja criptografar ou descriptografar.</span>
+            </div>
+
+        </div>
+    
+
+        <div class="buttons">
+            <div class="container-bnt">
+                <button  onclick="criptografar()" class="btn-criptografar">Criptografar</button>
+                <button  onclick="descriptografar()" class="btn-descriptografar">Descriptografar</button>
+            </div>
+            
+        </div>
+
+        
+        
+    </main>
+    <script src="script.js"></script>
+
+</body>
+
+
+</html>
